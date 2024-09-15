@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first repository
 <br>
-Author - Sarvjeet Kumar
+Author - Sarvjeet Kumar (Student)
