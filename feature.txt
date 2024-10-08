@@ -1,3 +1,4 @@
 #Feature file 
 creating feature text file
-Author - sarvjeet kuma
+Author - Kumar
+Title - feature file
